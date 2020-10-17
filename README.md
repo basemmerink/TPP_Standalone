@@ -16,4 +16,4 @@ A standalone client of Twitch Plays Pokemon, that can be imported into OBS as br
 And that's it! You are now free to resize the panel, and use alt+resize to remove the bottom part if you don't want the chat messages to appear on screen
 
 # Credits
-Using this is free. But please credit twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤
+Using this is free. But please credit https://twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤
