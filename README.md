@@ -9,7 +9,7 @@ A standalone client of Twitch Plays Pokemon, that can be imported into OBS as br
 - Change the oauth token from the token generated at https://twitchapps.com/tmi/ (you will probably need to login using the twitch account with which you will be streaming this)
 - Save the html file
 - Create a new browser source in OBS
-- Source file is the html file you just edited
+- Source is a local file -> the html file you just downloaded and edited
 - Width: 640
 - Height: 1152
 
