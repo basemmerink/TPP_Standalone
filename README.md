@@ -16,9 +16,9 @@ A standalone client of Twitch Plays Pokemon, that can be imported into OBS as br
 And that's it! You are now free to resize the panel, and use alt+resize to remove the bottom part if you don't want the chat messages to appear on screen
 
 # Saving and loading
-If you are the streamer you can use !save to save the current state of the gameboy.  
+If you are the streamer you can use **!save** to save the current state of the gameboy.  
 Next time you will load the scene, it will automatically load the last saved state.  
-If you want to start over, use !delete to delete the save state. Warning: This does not ask for confirmation and can not be undone.
+If you want to start over, use **!delete** to delete the save state. *Warning: This does not ask for confirmation and can not be undone*.
 
 # Credits
 Using this is free. But please credit https://twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤
