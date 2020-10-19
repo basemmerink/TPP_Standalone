@@ -80,7 +80,7 @@
       var appendMessage = (userName, message) => {
           var msg = document.createElement('div');
           var span = document.createElement('span');
-          span.appendChild(document.createTextNode(userState['display-name'] + ': ' + message));
+          span.appendChild(document.createTextNode(userName + ': ' + message));
           msg.appendChild(span);
           var chat = document.getElementById('chat');
           chat.insertBefore(msg, chat.firstChild);
