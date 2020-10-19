@@ -1,7 +1,7 @@
 # TPP Standalone
 A standalone client of Twitch Plays Pokemon, that can be imported into OBS as browser source
 
-# How to
+# Instructions
 - Download TPP.html
 - Open it using any text editor (notepad, notepad++, Atom, etc..)
 - Locate the oauth token and your twitch username at the top
