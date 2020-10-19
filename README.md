@@ -17,7 +17,8 @@ And that's it! You are now free to resize the panel, and use alt+resize to remov
 
 # Saving and loading
 **!save** to save the current state of the gameboy.  
-**!delete** to delete the save state. *Warning: This does not ask for confirmation and can not be undone*.  
+**!delete** to delete the save state. *Warning: This does not ask for confirmation and can not be undone*.
+
 If you load the scene or refresh the browser source it will automatically load the last saved sate.  
 *Warning: Switching scenes or hiding the browser source will NOT automatically save the state. Use !save first to prevent losing progress*
 
