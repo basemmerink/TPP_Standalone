@@ -1,5 +1,5 @@
 # TPP Standalone
-A standalone client of Twitch Plays Pokemon, that can be imported into OBS as browser source
+A standalone client of Twitch Plays Pokemon, that can be imported into OBS as browser source. The source game is pokemon red
 
 # Instructions
 - Download TPP.html
@@ -23,4 +23,5 @@ If you load the scene or refresh the browser source it will automatically load t
 *Warning: Switching scenes or hiding the browser source will NOT automatically save the state. Use !save first to prevent losing progress*
 
 # Credits
-Using this is free. But please credit https://twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤
+Using this is free. But please credit https://twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤  
+This makes use of [gameboy online, by Grant Galitz](https://github.com/taisel/GameBoy-Online)
