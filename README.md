@@ -1,6 +1,8 @@
 # TPP Standalone
 A standalone client of Twitch Plays Pokemon, that can be imported into OBS as browser source. The source game is pokemon red
 
+![image](https://user-images.githubusercontent.com/12845064/121528861-2420c100-c9fc-11eb-9a80-c057955caa25.png)
+
 # Instructions
 - Download TPP.html
 - Open it using any text editor (notepad, notepad++, Atom, etc..)
