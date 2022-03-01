@@ -17,6 +17,17 @@ A standalone client of Twitch Plays Pokemon, that can be imported into OBS as br
 
 And that's it! You are now free to resize the panel, and use alt+resize to remove the bottom part if you don't want the chat messages to appear on screen
 
+# Audio
+By default, a browser page needs any sort of input from the user to be able to play audio.  
+So, if you want to enable audio for the gameboy, you should follow a few extra steps:
+- Edit *TPP.html*
+  - Change *var useAudio = false;* to *var useAudio = true;*  
+- Reload the browser source in OBS, you will now see a button which reads "Start ROM". 
+- Right click the browser source > Interact.
+- OBS will open a new window which is interactable.
+- Click the button, it will load the gameboy with sound enabled
+- You can close the interactable OBS window
+
 # Saving and loading
 **!save** to save the current state of the gameboy.  
 **!delete** to delete the save state. *Warning: This does not ask for confirmation and can not be undone*.
