@@ -27,6 +27,13 @@ So, if you want to enable audio for the gameboy, you should follow a few extra s
 - OBS will open a new window which is interactable.
 - Click the button, it will load the gameboy with sound enabled
 - You can close the interactable OBS window
+- If you want to adjust the volume of the gameboy (it starts very loud)
+  - Go to your browser source properties
+  - Enable *Control audio via OBS*
+  - Now you will have a volume slider, but you won't hear the audio
+  - Right click the volume slider and go to *Advanced Audio Properties*
+  - Find your browser source and set Audio Monitoring to *Monitor and Output*
+  - Now you can freely adjust the volume of the gameboy!
 
 # Saving and loading
 **!save** to save the current state of the gameboy.  
