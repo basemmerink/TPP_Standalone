@@ -46,4 +46,8 @@ If you load the scene or refresh the browser source it will automatically load t
 
 # Credits
 Using this is free. However, it would be greatly appreciated if you could credit https://twitch.tv/baasbase somewhere in a twitch panel or on a label on screen. That way you will support me in making more awesome stuff like this ❤  
+https://twitter.com/baasbase  
+https://www.youtube.com/channel/UCd5RjtL4EJwoeLJWiofGG3Q  
+https://ko-fi.com/baasbase
+
 This makes use of [gameboy online, by Grant Galitz](https://github.com/taisel/GameBoy-Online)
